@@ -1,156 +1,231 @@
-<h1 align="center">Hi, I'm Akshay Wesley Kothapalli 👋</h1>
+```markdown
+<div align="center">
 
-<h3 align="center">
-AI & GenAI Developer • Full-Stack Builder • ML Enthusiast
-</h3>
+# `> AKSHAY WESLEY`
 
-<p align="center">
-I build intelligent systems that combine <b>AI, machine learning, LLMs, automation, and full-stack engineering</b> to solve real-world problems.
-</p>
+### I don't just use AI. I build systems around it.
 
-<p align="center">
-  <a href="https://github.com/akshaywesleykothapalli">
-    <img src="https://img.shields.io/badge/GitHub-akshaywesleykothapalli-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+**AI Engineer · Agent Builder · Full-Stack Developer**
 
----
+Turning ambitious ideas into systems that **reason, automate, search, see, speak & ship.**
 
-## 👨‍💻 About Me
+<br>
 
-- 🎓 B.Tech student specializing in **Artificial Intelligence & Data Science**
-- 🤖 Interested in **Generative AI, AI Agents, Machine Learning and Intelligent Automation**
-- 🧠 Building systems with **LLMs, RAG, Computer Vision and NLP**
-- ⚡ I enjoy turning ambitious ideas into working prototypes and production-ready applications
-- 🏗️ Exploring the intersection of **AI + Full-Stack Engineering + Developer Tools**
-- 🚀 Regularly building for **hackathons, startups and real-world problem statements**
-- 📚 Currently deepening my knowledge of **AI engineering, agentic systems and scalable backend architecture**
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshaywesleykothapalli)
+[![Email](https://img.shields.io/badge/Let's_Talk-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaywesleyk@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+```console
+akshay@github:~$ whoami
 
-### 🏛️ Government Intelligence Platform
+> AI & Data Science student
+> Building AI-native products and intelligent systems
+> Interested in agents, GenAI, RAG, voice AI and ML
+> I learn by shipping.
+```
 
-An AI-powered platform designed to make government schemes, policies and official documents easier to understand, search and manage.
+## ⚡ What happens when I get an idea?
 
-**Highlights**
-- OCR-based government document processing
-- AI-powered information extraction
-- Semantic and hybrid search
-- Retrieval-Augmented Generation (RAG)
-- Role-based citizen and officer workflows
-- Knowledge graph architecture
-- Secure authentication and authorization
+```mermaid
+flowchart LR
+    A["💡 Idea"] --> B["🧠 Research"]
+    B --> C["⚡ Prototype"]
+    C --> D["🤖 AI"]
+    D --> E["⚙️ Engineer"]
+    E --> F["🚀 Ship"]
+    F --> G["📈 Iterate"]
+    G -.-> A
+```
 
-**Tech:** Next.js • TypeScript • FastAPI • PostgreSQL • pgvector • Python • RAG • NLP
+I like problems where **AI isn't just a chatbot added on top**.
 
----
-
-### 🪐 Exoplanet Detector AI
-
-Machine-learning system for detecting potential exoplanets from astronomical transit data.
-
-**Highlights**
-- ML-based exoplanet classification
-- Kepler/TESS astronomical data
-- Transit light-curve analysis
-- Explainable AI concepts
-- Interactive visualization
-
-**Tech:** Python • Machine Learning • Data Science • Scientific Computing
-
-[View Repository →](https://github.com/akshaywesleykothapalli/exoplanet-detector-ai)
+I want it inside the actual system — retrieving information, reasoning over data, understanding documents, processing vision, orchestrating tools, automating workflows and making software more intelligent.
 
 ---
 
-## 🧠 Areas I'm Exploring
+# `01. /featured-builds`
+
+## 🏛️ Government Intelligence Platform
+
+> **What if thousands of government documents could behave like one intelligent knowledge system?**
+
+An AI-native platform for transforming schemes, circulars, notifications and policy documents into structured, searchable intelligence.
 
 ```text
-Generative AI       ███████████████████░
-AI Agents           ██████████████████░░
-Machine Learning    ██████████████████░░
-Full-Stack AI       █████████████████░░░
-Computer Vision     ████████████████░░░░
-NLP & RAG           ██████████████████░░
+PDF / Scan
+    │
+    ▼
+   OCR
+    │
+    ▼
+AI Extraction ──────► Structured Knowledge
+    │                        │
+    ├──► Semantic Search     ├──► Knowledge Graph
+    ├──► RAG                 ├──► Policy Intelligence
+    └──► Citizen Guidance    └──► Officer Workflows
+```
+
+`Next.js` `FastAPI` `PostgreSQL` `pgvector` `OCR` `RAG` `LLMs` `NLP`
+
+**Built around:** document intelligence · semantic retrieval · authentication · knowledge systems · AI-assisted workflows
+
+---
+
+## 🪐 Exoplanet Detector AI
+
+> **Finding worlds hidden inside light curves.**
+
+Machine-learning system for identifying potential exoplanets from astronomical transit data.
+
+```text
+        ⭐ STAR
+          │
+          │ brightness
+          ▼
+   ╭───────────────╮
+───╯               ╰──────────
+          ▲
+          │
+       🪐 transit
+          │
+          ▼
+    ML CLASSIFIER
+          │
+      probability
+          │
+          ▼
+   EXOPLANET CANDIDATE
+```
+
+Built using astronomical data, transit-light-curve analysis and machine learning.
+
+`Python` `Machine Learning` `Scientific Computing` `Data Visualization`
+
+[Explore the project →](https://github.com/akshaywesleykothapalli/exoplanet-detector-ai)
+
+---
+
+# `02. /currently-exploring`
+
+```yaml
+focus:
+  ai:
+    - Generative AI
+    - AI Agents
+    - Retrieval-Augmented Generation
+    - Voice AI
+    - Computer Vision
+
+  engineering:
+    - AI-native SaaS
+    - Intelligent Backends
+    - Distributed AI Systems
+    - Developer Tools
+    - Automation
+
+  question:
+    "What becomes possible when software can reason?"
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# `03. /my-stack`
 
-### Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,html,css" />
-</p>
+### `LANGUAGES`
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
+### `BUILD`
 
-### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,fastapi&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql" />
-</p>
+### `DATA + AI`
 
-### AI / ML
+<img src="https://skillicons.dev/icons?i=postgres,mysql,pytorch,tensorflow,opencv&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
+### `SHIP`
 
-**Also working with:** Hugging Face • LLMs • RAG • FAISS • pgvector • Whisper • OCR • Embeddings
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman&theme=dark" />
 
-### Tools & Infrastructure
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman" />
-</p>
+`LLMs` · `RAG` · `Embeddings` · `FAISS` · `pgvector` · `Hugging Face` · `Whisper` · `OCR`
+
+</div>
 
 ---
 
-## 🔬 What I'm Interested In
+# `04. /how-i-think`
 
-- 🤖 AI Agents & Agentic Workflows
-- 🧠 Large Language Models
-- 🔎 Retrieval-Augmented Generation
-- 👁️ Computer Vision
-- 🗣️ Voice AI
-- ⚙️ Developer Automation
-- 🌐 AI-powered SaaS
-- 🧩 Intelligent Backend Systems
-- 📊 Applied Machine Learning
+```python
+class Akshay:
+    def __init__(self):
+        self.role = "AI Builder"
+        self.mode = "shipping"
+        self.curiosity = float("inf")
 
----
+    def build(self, problem):
+        idea = research(problem)
+        prototype = experiment(idea)
+        product = engineer(prototype)
 
-## 📊 GitHub
+        return ship(product)
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akshaywesleykothapalli&show_icons=true&hide_border=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaywesleykothapalli&layout=compact&hide_border=true&theme=github_dark" />
-</p>
+    def current_mission(self):
+        return "Build things that weren't obvious yesterday."
+```
 
 ---
 
-## 🤝 Let's Connect
+# `05. /github-telemetry`
 
-I'm interested in collaborating on **AI, GenAI, ML, agentic systems, developer tools and ambitious software projects.**
+<div align="center">
 
-<p>
-  <a href="mailto:akshaywesleyk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=akshaywesleykothapalli&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaywesleykothapalli&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
 
 ---
 
-<p align="center">
-  <b>Building. Experimenting. Learning. Shipping.</b>
-</p>
+# `06. /trajectory`
+
+```text
+NOW                                                     NEXT
+ │                                                        │
+ ├── Machine Learning                                     │
+ ├── Full-Stack Development                               │
+ ├── Generative AI                                        │
+ │                                                        │
+ └──────────────► AI Agents ──────► AI Systems ──────────►│
+                                                          │
+                                            Intelligent products
+                                            people actually use.
+```
+
+---
+
+<div align="center">
+
+### `> BUILDING WHAT'S NEXT_`
+
+I am interested in collaborating with people working on
+
+**AI · Agents · GenAI · ML · Developer Tools · Intelligent Products**
+
+<br>
+
+[![Email](https://img.shields.io/badge/OPEN_A_CHANNEL-akshaywesleyk%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaywesleyk@gmail.com)
+
+<br><br>
+
+<sub>Ideas are cheap. Execution compounds.</sub>
+
+</div>
+```
