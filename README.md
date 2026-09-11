@@ -4,15 +4,15 @@
 
 ### ◈ AI · ⚡ SOFTWARE · ◉ PRODUCTS
 
-Building intelligent software systems.
+Building intelligent software systems and turning ideas into working products.
 
 <br>
 
 <a href="mailto:akshaywesleyk@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/akshaywesleykothapalli">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
@@ -29,11 +29,16 @@ Building intelligent software systems.
 
 **AI-powered government knowledge & policy intelligence**
 
-`🧠 AI` · `📄 OCR` · `🔎 RAG` · `🕸️ Knowledge Graph` · `🔐 Security`
+A platform for discovering, understanding, and tracking government schemes, circulars, and policy documents.
 
-<p>
+`🧠 AI` · `📄 OCR` · `🔎 RAG` · `🕸️ Knowledge Graph` · `🔐 RBAC`
+
+- Extracting structured information from government documents, including scanned PDFs.
+- Building semantic search and RAG pipelines for policy and scheme intelligence.
+- Tracking policy changes and supporting officer review workflows.
+- Designed for both government officers and citizens.
+
 <img src="https://skillicons.dev/icons?i=nextjs,typescript,python,fastapi,postgres&theme=dark" />
-</p>
 
 ---
 
@@ -41,13 +46,62 @@ Building intelligent software systems.
 
 **Machine learning for astronomical transit detection**
 
-`🤖 ML` · `🔭 Astronomy` · `📊 Data` · `✨ Visualization`
+Built during NASA Space Apps Challenge 2025 to identify potential exoplanets from Kepler and TESS data.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
-</p>
+`🤖 Machine Learning` · `🔭 Astronomy` · `📊 Data` · `✨ Visualization`
+
+- Trained an ensemble model on 150K+ astronomical records.
+- Achieved **94.8% precision** on the evaluation dataset.
+- Built interactive light-curve analysis and candidate exploration.
+- **Best Use of Science Award** — NASA Space Apps Challenge 2025.
 
 [↗ View Project](https://github.com/akshaywesleykothapalli/exoplanet-detector-ai)
+
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
+
+---
+
+### 🎮 Only Cards
+
+**Real-time multiplayer card game**
+
+A browser-based multiplayer UNO-style card game built around real-time interaction and game-state synchronization.
+
+`⚡ Real-time` · `🎮 Multiplayer` · `🌐 Web` · `🚀 Deployed`
+
+- Built the complete multiplayer game experience.
+- Implemented synchronized game state and player interactions.
+- Designed and shipped the application as a working web product.
+
+[↗ View Project](https://github.com/akshaywesleykothapalli/only-cards)
+
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs&theme=dark" />
+
+---
+
+### 🥽 Ringside
+
+**Real-time computer vision for sports**
+
+A computer-vision project focused on analyzing live sports footage and extracting useful visual information.
+
+`👁️ Computer Vision` · `🎥 Video` · `⚡ Real-time` · `🤖 AI`
+
+Built as a practical exploration of applying AI to live visual data rather than just working with static datasets.
+
+---
+
+### 🧬 Federated Learning — IISc Bangalore
+
+**Distributed deep learning across edge devices**
+
+Experimented with federated learning across **four Raspberry Pis**, training models without centralizing the underlying image datasets.
+
+`🧠 Deep Learning` · `🔗 Federated Learning` · `🍓 Raspberry Pi` · `📡 Distributed AI`
+
+- Worked with large image datasets and distributed training.
+- Experimented with architectures including AlexNet, VGG16, and ResNet.
+- Explored the practical challenges of training ML models across constrained edge devices.
 
 ---
 
@@ -57,7 +111,7 @@ Building intelligent software systems.
 
 ### `</>` Languages
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,rust&theme=dark" />
 
 <br><br>
 
@@ -105,7 +159,7 @@ Building intelligent software systems.
 &nbsp;&nbsp;
 `🎙️ Voice AI`
 &nbsp;&nbsp;
-`👁️ Vision`
+`👁️ Computer Vision`
 
 <br><br>
 
@@ -117,11 +171,34 @@ Building intelligent software systems.
 &nbsp;&nbsp;
 `⚡ Automation`
 
+<br><br>
+
+`⛓️ Web3`
+&nbsp;&nbsp;
+`◎ Solana`
+&nbsp;&nbsp;
+`🦀 Rust`
+
 </div>
 
 ---
 
-## ◉ GitHub
+## ◉ What I Like Building
+
+<div align="center">
+
+AI systems that actually do something.
+
+<br>
+
+Developer tools · Intelligent applications · Real-time products ·
+Computer vision · RAG systems · Voice interfaces · Web3
+
+</div>
+
+---
+
+## ◇ GitHub
 
 <div align="center">
 
